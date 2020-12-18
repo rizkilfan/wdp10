@@ -1,8 +1,3 @@
-<p class="intro" id="waktu"></p>
-	<script>
-		var d = new Date();
-		document.getElementById("waktu").innerHTML = d;
-	</script>
 <p class="intro" id="sapaan" style="text-align:center">Selamat Siang dan Selamat Datang di</p>
 	<script>
 		if (new Date().getHours() > 18) {
@@ -87,5 +82,4 @@
 <div class="div1"> 
  <a href="https://about.me/rizkilfan" align="center">
     <button class="button">Selebihnya Tentang Saya</button> 
-    </a>
-	<p id="demo"></p>
+ </a>
